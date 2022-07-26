@@ -1,0 +1,63 @@
+body {
+    font-family: -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/* /Imagenes/ */
+body {
+    font-family: -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.img-realizar-pedidos {
+    width: 150px;
+    border-radius: 3px;
+}
+
+.img-carrito {
+    width: auto;
+    height: 180px;
+    /* border: 1px black solid; */
+    border-radius: 10px;
+}
+
+.img-comunicate {
+    width: 300px;
+    height: 300px;
+}
+
+.border-custom {
+    border: 1px black solid;
+}
+
+.border-bottom-0 {
+    border-bottom: 0 !important;
+}
+
+.form-control:focus {
+    border: none;
+    outline: none !important;
+    box-shadow: inset 0 3px 3px rgba(0, 0, 0, 0.075), 0 0 8px rgba(249, 190, 75, 1);
+}
+
+.border-bottom-custom-3 {
+    border-bottom: 2px black solid;
+}
+
+.border-bottom-custom-1 {
+    border-bottom: 1px gray solid;
+}
+
+.box1 {
+    width: 15px;
+    height: 15px;
+    border: 1px black solid;
+    background-color: cornflowerblue;
+}
+
+.width-elementos {
+    width: 100px;
+}
+
+.rounded-none {
+    border-radius: 0px !important;
+}
+
+.btn-pagar {}

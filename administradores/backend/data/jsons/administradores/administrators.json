@@ -1,0 +1,35 @@
+[
+  {
+    "idAdmin": "1",
+    "firstName": "Marion",
+    "lastName": "Bustamante",
+    "email" : "@marion",
+    "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+    "img": "../backend/data/img-backend/usuarios/administradores/admin1.png",
+    "status": "Activo",
+    "role": "alfa",
+    "telephone": "829-829-829"
+  },
+  {
+    "idAdmin": "2",
+    "firstName": "Eliezer",
+    "lastName": "Rivera",
+    "email" : "lsrberto@gmail.com",
+    "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+    "img": "../backend/data/img-backend/usuarios/administradores/admin2.png",
+    "status": "Activo",
+    "role": "alfa",
+    "telephone": "829-829-830"
+  },
+  {
+    "idAdmin": "3",
+    "firstName": "Juan",
+    "lastName": "Perez",
+    "email" : "@juan",
+    "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+    "img": "../backend/data/img-backend/usuarios/administradores/admin3.png",
+    "status": "Activo",
+    "role": "omega",
+    "telephone": "829-829-831"
+  }
+]

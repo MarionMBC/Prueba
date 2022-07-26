@@ -1,0 +1,118 @@
+[
+  {
+    "idProduct": 1,
+    "name": "Pantalon de algodon",
+    "description": 
+      "100%cuero Importado Revestimiento de Leather Cierre de Bifold Lavar en seco solamente Funda de piel sintética con pespuntes de contraste y logotipo grabado"
+    ,
+    "price": 1250,
+    "img": "../administradores/backend/data/img-backend/productos/product19.jpg",
+    "category": 1,
+    "subCategory": "Camisas",
+    "type": "",
+    "genderCategory": "masculino",
+    "quantity": 12,
+    "brand": "Timberland"
+  },
+  {
+    "idProduct": 2,
+    "name": "Pantalon de algodon",
+    "description": 
+      "100%cuero Importado Revestimiento de Leather Cierre de Bifold Lavar en seco solamente Funda de piel sintética con pespuntes de contraste y logotipo grabado"
+    ,
+    "price": 1250,
+    "img": "../administradores/backend/data/img-backend/productos/product1.jpg",
+    "category": 1,
+    "subCategory": "Pantalones",
+    "type": "",
+    "genderCategory": "masculino",
+    "quantity": 12,
+    "brand": "Timberland"
+  },
+  {
+    "idProduct": 3,
+    "name": "Helly Hansen | Chaqueta Active Winter Parka negro /DWR/YKK®/",
+    "description": "Paquete de 3 pares de calcetines sport de algodón cómodos, suaves y duraderos Unisex Ajuste adaptable",
+    "price": 300,
+    "img": "../administradores/backend/data/img-backend/productos/product13.jpg",
+    "category": 1,
+    "subCategory": "Abrigos",
+    "type": "",
+    "genderCategory": "masculino",
+    "quantity": 10,
+    "brand": "Hely Hansen"
+  },
+  {
+    "idProduct": 4,
+    "name": "Helly Hansen | Chaqueta Active Winter Parka negro /DWR/YKK®/",
+    "description":
+      "De la colección Urban Active, llega la parka invernal Active. Una cálida parka de inspiración montañera pero diseñada para las aventuras invernales en la ciudad. Una parka invernal de inspiración montañera con tejido de membrana impermeable, cortavientos y transpirable. Cuenta con una cálida capucha protectora con bolsillos calientamanos y lleva un abrigado relleno de aislamiento sintético de fibra larga. La parka invernal Active será tu mejor compañera este invierno, y siempre que necesites abrigo."
+    ,
+    "price": 1600,
+    "img": "../administradores/backend/data/img-backend/productos/product7.jpg",
+    "category": 1,
+    "subCategory": "Zapatos",
+    "type": "",
+    "genderCategory": "masculino",
+    "quantity": 15,
+    "brand": "Helly Hansen"
+  },
+  {
+    "idProduct": 5,
+    "name": "Pantalon de algodon",
+    "description": 
+      "100%cuero Importado Revestimiento de Leather Cierre de Bifold Lavar en seco solamente Funda de piel sintética con pespuntes de contraste y logotipo grabado"
+    ,
+    "price": 1250,
+    "img": "../administradores/backend/data/img-backend/productos/product49.jpg",
+    "category": 1,
+    "subCategory": "Camisas",
+    "type": "",
+    "genderCategory": "femenino",
+    "quantity": 12,
+    "brand": "Timberland"
+  },
+  {
+    "idProduct": 6,
+    "name": "Pantalon de algodon",
+    "description": 
+      "100%cuero Importado Revestimiento de Leather Cierre de Bifold Lavar en seco solamente Funda de piel sintética con pespuntes de contraste y logotipo grabado"
+    ,
+    "price": 1250,
+    "img": "../administradores/backend/data/img-backend/productos/product25.jpg",
+    "category": 1,
+    "subCategory": "Pantalones",
+    "type": "",
+    "genderCategory": "femenino",
+    "quantity": 12,
+    "brand": "Timberland"
+  },
+  {
+    "idProduct": 7,
+    "name": "Helly Hansen | Chaqueta Active Winter Parka negro /DWR/YKK®/",
+    "description": "Paquete de 3 pares de calcetines sport de algodón cómodos, suaves y duraderos Unisex Ajuste adaptable",
+    "price": 300,
+    "img": "../administradores/backend/data/img-backend/productos/product43.jpg",
+    "category": 1,
+    "subCategory": "Abrigos",
+    "type": "",
+    "genderCategory": "femenino",
+    "quantity": 10,
+    "brand": "Hely Hansen"
+  },
+  {
+    "idProduct": 8,
+    "name": "Helly Hansen | Chaqueta Active Winter Parka negro /DWR/YKK®/",
+    "description":
+      "De la colección Urban Active, llega la parka invernal Active. Una cálida parka de inspiración montañera pero diseñada para las aventuras invernales en la ciudad. Una parka invernal de inspiración montañera con tejido de membrana impermeable, cortavientos y transpirable. Cuenta con una cálida capucha protectora con bolsillos calientamanos y lleva un abrigado relleno de aislamiento sintético de fibra larga. La parka invernal Active será tu mejor compañera este invierno, y siempre que necesites abrigo."
+    ,
+    "price": 1600,
+    "img": "../administradores/backend/data/img-backend/productos/product31.jpg",
+    "category": 1,
+    "subCategory": "Faldas",
+    "type": "",
+    "genderCategory": "femenino",
+    "quantity": 15,
+    "brand": "Helly Hansen"
+  }
+]

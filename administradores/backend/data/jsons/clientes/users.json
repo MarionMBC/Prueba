@@ -1,0 +1,54 @@
+[
+  {
+    "idUser": 1,
+    "firstName": "Ely",
+    "lastName": "Rivera",
+    "img": "../administradores/backend/data/img-backend/usuarios/clientes/user1.png",
+    "email": "lsrberto@gmail.com",
+    "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+    "phone": "55-5555-5555",
+    "address": "Calle falsa 123",
+    "gender": "M",
+    "orders": [1,2,3,4,5,6],
+    "cards": [
+      {
+        "cardType": "Crédito",
+        "cardNumber": "123456789123456",
+        "owner": "Gerson Eliezer Rivera Rosales",
+        "expirationDate": "12/25"
+      },
+      {
+        "cardType": "Débito",
+        "cardNumber": "123456789123457",
+        "owner": "Gerson Eliezer Rivera Rosales",
+        "expirationDate": "12/25"
+      }
+    ]
+  },
+  {
+    "idUser": 2,
+    "firstName": "Marion",
+    "lastName": "Bustamante",
+    "img": "../administradores/backend/data/img-backend/usuarios/clientes/user2.png",
+    "email": "@marion",
+    "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+    "phone": "55-5555-5555",
+    "address": "Calle falsa 123",
+    "gender": "M",
+    "orders": [7,8,9,10,11,12],
+    "cards": [
+      {
+        "cardType": "Débito",
+        "cardNumber": "123456789123458",
+        "owner": "Marion Melchisedec Bustamante Castro",
+        "expirationDate": "12/25"
+      },
+      {
+        "cardType": "Crédito",
+        "cardNumber": "123456789123459",
+        "owner": "Marion Melchisedec Bustamante Castro",
+        "expirationDate": "12/25"
+      }
+    ]
+  }
+]
